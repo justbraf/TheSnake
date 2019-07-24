@@ -1,13 +1,12 @@
-# Welcome to Defold
+# Welcome to The Snake #
 
-This project was created from the "empty" project template.
-
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
-
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
-
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
-
+This project was created with Defold.
 ---
+
+This base code was implemented from a tutorial of single player snake.
+###Goals to be achieved:###
+
+*Implement a GUI system for menus and HUD.
+*Implement a scoring system
+*Implement two player mode
+*Implement levels
